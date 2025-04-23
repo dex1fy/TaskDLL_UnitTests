@@ -1,0 +1,11 @@
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\bin\Debug\net8.0\TaskBebebe.deps.json
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\bin\Debug\net8.0\TaskBebebe.dll
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\bin\Debug\net8.0\TaskBebebe.pdb
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\obj\Debug\net8.0\TaskBebebe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\obj\Debug\net8.0\TaskBebebe.AssemblyInfoInputs.cache
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\obj\Debug\net8.0\TaskBebebe.AssemblyInfo.cs
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\obj\Debug\net8.0\TaskBebebe.csproj.CoreCompileInputs.cache
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\obj\Debug\net8.0\TaskBebebe.dll
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\obj\Debug\net8.0\refint\TaskBebebe.dll
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\obj\Debug\net8.0\TaskBebebe.pdb
+C:\Users\dexify\source\repos\TaskBebebe\TaskBebebe\obj\Debug\net8.0\ref\TaskBebebe.dll
